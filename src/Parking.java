@@ -1,5 +1,5 @@
 public class Parking {
-    private int car=0,bike=0,van=0;
+    private int car=0,bike=0,van=0; // vehicle values
     public int getCar() {
         return car;
     }
