@@ -26,7 +26,11 @@ public class Carparking {
                         System.out.println("Parking For Bike");
                     }
                     else if(type == 2){
-                        System.out.println("Parking For Car");
+                        System.out.println("Exit For Car");
+                        System.out.println(" Successfully");
+                        System.out.println("Thank You!");
+                        car=car-1;
+                        System.out.println(" ");
 
                     }
                     else{
