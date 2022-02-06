@@ -14,7 +14,7 @@ public class Parking {
     }
     public int getVan() {
         return van;
-    }
+    }  // for van
     public void setVan(int van) { this.van = van; }
     public void delete()
     {
