@@ -16,7 +16,7 @@ public class Carparking {
         int cars_slots = 0;  //total numbers of cars  slots in parking area
         int vans_slots = 0 ;   //total numbers of vans slots in parking area
         int total_slot=0;
-        System.out.println("WELCOME TO THE CAR PARK MANAGEMENT SYSTEM.WE ARE 2019T00531,2019T00358,2019T00365");
+        System.out.println("WELCOME TO THE CAR PARK MANAGEMENT SYSTEM.WE ARE 2019T00351,2019T00358,2019T00365");
         System.out.println("");
         System.out.println("");
         while (true)
