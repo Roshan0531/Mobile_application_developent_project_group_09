@@ -53,6 +53,17 @@ public class Carparking {
                     System.out.println("");
                     break;
                 }
+                case 4:
+                {
+                    System.exit(0);
+                    break;
+                }
+                default:
+                {
+                    System.out.println("Please Enter Valid Input");
+                    System.out.println("");
+                    break;
+                }
             }
         }
     }
