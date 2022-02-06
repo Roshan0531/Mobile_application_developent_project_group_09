@@ -2,7 +2,7 @@ public class Parking {
     private int car=0,bike=0,van=0; // vehicle values
     public int getCar() {
         return car;
-    }
+    } // for car
     public void setCar(int car) {
         this.car = car;
     }
