@@ -8,7 +8,7 @@ public class Parking {
     }
     public int getBike() {
         return bike;
-    }
+    }  // for bike
     public void setBike(int bike) {
         this.bike = bike;
     }
