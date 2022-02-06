@@ -40,6 +40,18 @@ public class Carparking {
                         van=van-1;
                         System.out.println("");
                     }
+                    System.out.println("");
+                    break;
+                }
+                case 3:
+                {
+                    System.out.println("Parking Details");  //parking details
+                    System.out.println("Motorbike   :  "+bike);
+                    System.out.println("Car   :  "+car);
+                    System.out.println("Van  :  "+van);
+                    System.out.println("Totle  :  " +totle);
+                    System.out.println("");
+                    break;
                 }
             }
         }
