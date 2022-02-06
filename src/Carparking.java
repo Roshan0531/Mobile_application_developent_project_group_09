@@ -17,16 +17,16 @@ public class Carparking {
 
             switch (menu) {
                 case 1: // enter vehicle details
-                { System.out.println("Input Vehicle Type");
+                { System.out.println("Input Vehicle Type");    //input types of vehicles
                     System.out.println("Press 1 to Motorbike");
                     System.out.println("Press 2 to Car");
                     System.out.println("Press 3 to Van");
                     int type = uinput.nextInt();
                     if(type == 1){
-                        System.out.println("Parking For Bike");
+                        System.out.println("Parking For Bike");   //bike parking
                     }
                     else if(type == 2){
-                        System.out.println("Exit For Car");
+                        System.out.println("Exit For Car");  //parking for a car
                         System.out.println(" Successfully");
                         System.out.println("Thank You!");
                         car=car-1;
@@ -34,7 +34,11 @@ public class Carparking {
 
                     }
                     else{
-                        System.out.println("Parking For Van");
+                        System.out.println("Exit For Van");  //parking for a van
+                        System.out.println("Successfully");
+                        System.out.println("Thank You!");
+                        van=van-1;
+                        System.out.println("");
                     }
                 }
             }
@@ -42,4 +46,3 @@ public class Carparking {
     }
 }
 
-//test one
