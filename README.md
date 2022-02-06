@@ -1,4 +1,4 @@
-# Mobile_application_developent_project_group_09 2019T00358,2019T00531,2019T00365
+# Mobile_application_developent_project_group_09 2019T00358,2019T00351,2019T00365
 Before using software
    *Please input vehicle slots.
 
